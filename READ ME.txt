@@ -1,0 +1,16 @@
+// PLEASE READ //
+
+//BASIC INFO//
+This name generator will automatically produce a stereotypical Call of Duty trickshot name for you base on 12 primary words and 12 secondary words.
+Most likely all of the ones that will pop up are taken, because I am pretty accurate when it comes to stereotypes.
+If you like this tool, then gimme karma you ungrateful bastard (jk I follow intergalactic law)
+Also yes, I know how poorly it was written, I am pretty bad at programming. Also it's 2am.
+
+//* IF IT DOESN'T WORK //*
+
+You may to download Python 3 for this program to work, I don't know as I have it installed anyways.
+
+To get it, download it from the official website here (clicking the link should auto download):
+https://www.python.org/ftp/python/3.4.3/python-3.4.3.amd64.msi
+
+Or if you don't trust me you can just Google it yerself.
